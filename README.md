@@ -1,2 +1,2 @@
 # Crop_Yield_Prediction_System
-This is my first ML project
+This was my first ML project
